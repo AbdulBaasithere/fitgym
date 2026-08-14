@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse",
+  "description": "Modern full-stack gym member retention and gamification platform with AI churn prevention and leaderboard engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
